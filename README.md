@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZainabOwais
 - 👀 I’m interested in all things object oriented
-- 🌱 I’m currently learning to become a Salesforce Platform Developer
+- 🌱 I’m a newbie at Salesforce Administration and Development
 - 💞️ I’m looking to collaborate on Salesforce Projects
 - 📫 Reach me via email := znbasif@gmail.com
 
